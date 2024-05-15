@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://giphy.com/embed/XbsSB3SCniX6SEN1OY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/btsofficial-bts-jimin-bangtan-XbsSB3SCniX6SEN1OY">via GIPHY</a></p>
+<img src="https://giphy.com/embed/XbsSB3SCniX6SEN1OY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/btsofficial-bts-jimin-bangtan-XbsSB3SCniX6SEN1OY">
 <!--
 **mixxely/mixxely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
