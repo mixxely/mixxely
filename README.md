@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://giphy.com/embed/XbsSB3SCniX6SEN1OY" width="480" height="270" >
+                <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a>
+
 <!--
 **mixxely/mixxely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
